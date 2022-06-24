@@ -1,0 +1,20 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "<img src=\"https://raw.githubusercontent.com/023PrashantSharma/leetcode/main/leetcode.png\" height=350 width=1000>\r I am continuously providing leetcode solution here for monthly problems and trying to give best solution, although giving suggestions and changes are always welcome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/023PrashantSharma/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/023PrashantSharma/leetcode/issues"
+  },
+  "homepage": "https://github.com/023PrashantSharma/leetcode#readme"
+}
